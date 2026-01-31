@@ -1,0 +1,8 @@
+streamlit 
+pymongo 
+pandas 
+matplotlib 
+seaborn
+vaex-core 
+vaex-viz 
+vaex-hdf5
